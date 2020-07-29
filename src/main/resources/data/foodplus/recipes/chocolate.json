@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "ccc",
+    "mmm"
+  ],
+  "key": {
+    "m": {
+      "item": "minecraft:milk_bucket"
+    },
+    "s": {
+      "item": "minecraft:snowball"
+    },
+    "c": {
+      "item": "minecraft:cocoa_beans"
+    }
+  },
+  "result": {
+    "item": "foodplus:chocolate",
+    "count": 1
+  }
+}

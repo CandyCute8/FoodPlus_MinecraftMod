@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodplus:cone"
+    },
+    {
+      "item": "foodplus:vanilla"
+    }
+  ],
+  "result":
+  {
+    "item": "foodplus:vanilla_cream",
+    "count": 1
+  }
+}

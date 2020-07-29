@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "wmw",
+    "wsw",
+    " w "
+  ],
+  "key": {
+    "w": {
+      "item": "minecraft:wheat"
+    },
+    "m": {
+      "item": "minecraft:milk_bucket"
+    },
+    "s": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "foodplus:cone",
+    "count": 1
+  }
+}

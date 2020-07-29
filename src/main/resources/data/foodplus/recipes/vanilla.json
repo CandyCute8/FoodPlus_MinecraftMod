@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "   ",
+    "mmm"
+  ],
+  "key": {
+    "m": {
+      "item": "minecraft:milk_bucket"
+    },
+    "s": {
+      "item": "minecraft:snowball"
+    }
+  },
+  "result": {
+    "item": "foodplus:vanilla",
+    "count": 1
+  }
+}
