@@ -19,10 +19,13 @@ public class RegistryHandler {
     }
 
 
-    //Items
+    //Ice Cream Pack
     public static final RegistryObject<Item> CONE = ITEMS.register("cone", FoodBase::new);
     public static final RegistryObject<Item> CHOCOLATE = ITEMS.register("chocolate", FoodBase::new);
     public static final RegistryObject<Item> VANILLA = ITEMS.register("vanilla", FoodBase::new);
     public static final RegistryObject<VanillaCream> VANILLA_CREAM = ITEMS.register("vanilla_cream", VanillaCream::new);
     public static final RegistryObject<ChocolateCream> CHOCOLATE_CREAM = ITEMS.register("chocolate_cream", ChocolateCream::new);
+
+    //Juice Pack
+    public static final RegistryObject<Item> GLASS = ITEMS.register("glass", FoodBase::new);
 }

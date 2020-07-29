@@ -31,7 +31,7 @@ public class foodplus {
 
     private void doClientStuff(final FMLClientSetupEvent event) { }
 
-    public static final ItemGroup TAB = new ItemGroup("sweetTab") {
+    public static final ItemGroup TAB = new ItemGroup("foodTab") {
 
         @Override
         public ItemStack createIcon() {

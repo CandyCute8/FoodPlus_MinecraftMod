@@ -1,8 +1,9 @@
 {
-  "itemGroup.sweetTab": "Candy's Sweets",
+  "itemGroup.foodTab": "Candy's FoodPlus",
   "item.foodplus.cone": "Ice Cream Cone",
   "item.foodplus.chocolate": "Chocolate Scoop",
   "item.foodplus.vanilla": "Vanilla Scoop",
   "item.foodplus.vanilla_cream": "Vanilla Ice Cream",
-  "item.foodplus.chocolate_cream": "Chocolate Ice Cream"
+  "item.foodplus.chocolate_cream": "Chocolate Ice Cream",
+  "item.foodplus.glass": "Glass"
 }
